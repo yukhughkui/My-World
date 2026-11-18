@@ -6,4 +6,6 @@ The beginning of *My World*. Like writing, I am building a world of my own — a
 
 ---
 
-初稿 / First draft.
+小测试 / First test.
+
+[在线预览 · Live preview](https://yukhughkui.github.io/My-World/%E5%B0%8F%E6%B5%8B%E8%AF%95.html)
